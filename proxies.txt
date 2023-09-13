@@ -1,0 +1,9 @@
+185.199.229.156:7492:bchaxyux:e9k3krwyp1ep
+185.199.228.220:7300:bchaxyux:e9k3krwyp1ep
+185.199.231.45:8382:bchaxyux:e9k3krwyp1ep
+188.74.210.207:6286:bchaxyux:e9k3krwyp1ep
+188.74.183.10:8279:bchaxyux:e9k3krwyp1ep
+188.74.210.21:6100:bchaxyux:e9k3krwyp1ep
+45.155.68.129:8133:bchaxyux:e9k3krwyp1ep
+154.95.36.199:6893:bchaxyux:e9k3krwyp1ep
+45.94.47.66:8110:bchaxyux:e9k3krwyp1ep
